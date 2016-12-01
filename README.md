@@ -1,7 +1,7 @@
 # Alunos
  Rafael Vieira Sinosaki e 
- joel candido neto
+ Joel Candido Neto
 # Sistema de troca de serviços, Bruna
-crud
+CRUD
 # Matéria dispositivos móveis - fatec - 5° semestre -
-professor: Giuliano Bertoti
+Professor: Giuliano Bertoti
