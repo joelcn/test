@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_555b702ec24a6b915e1cab340b24a3f07d9e61f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_335ba392d92291bb5603cf090e26bd1be2376487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_ffd0a3a0eb6a629c0c378e253d43be88f5c0bf29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael Sinosaki\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Rafael Sinosaki\Downloads\android.studio.todolist-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_f8f7bfcdf0cd6a1649fb5c18837335ba602016d6.jar" />
+    </item>
+
+</items>
